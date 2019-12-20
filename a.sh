@@ -1,0 +1,1 @@
+python train.py --model_name aen_bert --device cuda:0 --dataset laptop --pretrained_bert_name ../bins
